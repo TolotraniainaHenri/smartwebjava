@@ -1,0 +1,12 @@
+.metadata/
+.settings/
+.classpath
+.project
+bin/
+build/
+target/
+*.class
+*.war
+**/WEB-INF/users.csv
+**/WEB-INF/users.csv.tmp
+.env
